@@ -6,3 +6,7 @@
 day = "Tuesday"
 print(f"Today is {day}")
 ```
+
+- [ ] Turn on GitHub Pages
+- [x] Outline my portfolio
+- [ ] Introduce myself to the world
